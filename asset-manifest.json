@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Teste-LeadershipTools/static/css/main.ea23501f.css",
-    "main.js": "/Teste-LeadershipTools/static/js/main.ab26a6c0.js",
-    "static/js/787.cb22918c.chunk.js": "/Teste-LeadershipTools/static/js/787.cb22918c.chunk.js",
-    "static/media/avatar.png": "/Teste-LeadershipTools/static/media/avatar.a18f6834e79b4b209aed.png",
-    "index.html": "/Teste-LeadershipTools/index.html",
-    "main.ea23501f.css.map": "/Teste-LeadershipTools/static/css/main.ea23501f.css.map",
-    "main.ab26a6c0.js.map": "/Teste-LeadershipTools/static/js/main.ab26a6c0.js.map",
-    "787.cb22918c.chunk.js.map": "/Teste-LeadershipTools/static/js/787.cb22918c.chunk.js.map"
+    "main.css": "/LeadershipTools/static/css/main.ea23501f.css",
+    "main.js": "/LeadershipTools/static/js/main.bc216a68.js",
+    "static/js/787.cb22918c.chunk.js": "/LeadershipTools/static/js/787.cb22918c.chunk.js",
+    "static/media/avatar.png": "/LeadershipTools/static/media/avatar.a18f6834e79b4b209aed.png",
+    "index.html": "/LeadershipTools/index.html",
+    "main.ea23501f.css.map": "/LeadershipTools/static/css/main.ea23501f.css.map",
+    "main.bc216a68.js.map": "/LeadershipTools/static/js/main.bc216a68.js.map",
+    "787.cb22918c.chunk.js.map": "/LeadershipTools/static/js/787.cb22918c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea23501f.css",
-    "static/js/main.ab26a6c0.js"
+    "static/js/main.bc216a68.js"
   ]
 }
